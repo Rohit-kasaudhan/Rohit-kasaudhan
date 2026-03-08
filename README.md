@@ -22,8 +22,8 @@
 </div>
 
 
-#About Me
 
+###  About ME
 ```python
 class Engineer:
     name       = "Rohit kasaudhan"
@@ -38,7 +38,7 @@ class Engineer:
 
 ---
 
-#Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 
