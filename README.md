@@ -79,46 +79,13 @@ class Engineer:
 <tr>
 <td width="50%">
 
-**🧠 [Project Name](https://github.com/yourusername/project)**
-> Short description of this intelligent system or automation project.
-
-`Python` `scikit-learn` `API`
-
-</td>
-<td width="50%">
-
-**⚡ [Project Name](https://github.com/yourusername/project)**
-> Short description of this innovative project that showcases your skills.
-
-`Python` `Web Dev` `ML`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
 
 ### 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/rohit-kasaudhan-429b33292/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](ksdrohit28@gmail.com)
 
 </div>
 
