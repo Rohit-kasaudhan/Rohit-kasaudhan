@@ -22,7 +22,7 @@
 </div>
 
 
-### 🧬 About Me
+#About Me
 
 ```python
 class Engineer:
@@ -38,7 +38,7 @@ class Engineer:
 
 ---
 
-### ⚡ Tech Arsenal
+#Tech Arsenal
 
 <div align="center">
 
@@ -54,7 +54,7 @@ class Engineer:
 
 ---
 
-### 🔥 Featured Projects
+# Projects
 
 <div align="center">
 <table>
