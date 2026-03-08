@@ -1,98 +1,141 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">Computer Engineering Student | AI & Computer Vision Enthusiast | Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%26+ML+Explorer;Computer+Vision+Builder;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hello%20World%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I%20build%20things%20that%20think&descAlignY=55&descSize=20&animation=fadeIn"/>
 
----
+</div>
 
-## 🚀 About Me
+<div align="center">
 
-I'm a passionate **Computer Engineering student** with a deep interest in **Artificial Intelligence**, **Computer Vision**, and **Software Engineering**. I love turning ideas into real-world projects and staying at the cutting edge of emerging technologies.
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║    WHO AM I ?                                         ║
+║    Computer Engineering Student                       ║
+║    AI/ML Builder · Web Developer · Tech Enthusiast    ║
+║                                                       ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-- 🎓 Studying **Computer Engineering**
-- 🤖 Building projects in **AI/ML** and **Computer Vision**
-- 🌐 Crafting clean and responsive **web experiences**
-- 💡 Always exploring **new technologies** and innovative solutions
-- 📫 Reach me at: **[your.email@example.com]**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+AI+that+matters+%F0%9F%A4%96;Crafting+intelligent+systems+%F0%9F%A7%A0;Turning+ideas+into+reality+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI / ML & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
 
-> ⚙️ *Replace these with your actual projects!*
+### 🧬 About Me
 
-### 🔭 [Project Name](https://github.com/yourusername/project)
-> A brief description of what this project does and the problem it solves.  
-`Python` `OpenCV` `Machine Learning`
+```python
+class Engineer:
+    name       = "Rohit kasaudhan"
+    role       = "Computer Engineering Student"
+    passions   = ["Artificial Intelligence", "ML Systems",
+                  "Web Development", "Open Source"]
+    currently  = "Building cool AI projects"
+    motto      = "Code. Learn. Repeat."
+```
 
-### 🧠 [Project Name](https://github.com/yourusername/project)
-> A brief description of what this project does and the problem it solves.  
-`Python` `TensorFlow` `Computer Vision`
+<br clear="right"/>
 
-### 🌐 [Project Name](https://github.com/yourusername/project)
-> A brief description of what this project does and the problem it solves.  
+---
+
+### ⚡ Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
+![AI/ML](https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a78bfa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a78bfa)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
+
+</div>
+
+---
+
+### 🔥 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**🤖 [Project Name](https://github.com/yourusername/project)**
+> Short punchy description of what this AI/ML project does and why it's awesome.
+
+`Python` `TensorFlow` `AI/ML`
+
+</td>
+<td width="50%">
+
+**🌐 [Project Name](https://github.com/yourusername/project)**
+> Short punchy description of this web project and the problem it solves.
+
 `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📊 GitHub Stats
+**🧠 [Project Name](https://github.com/yourusername/project)**
+> Short description of this intelligent system or automation project.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+`Python` `scikit-learn` `API`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</td>
+<td width="50%">
 
----
+**⚡ [Project Name](https://github.com/yourusername/project)**
+> Short description of this innovative project that showcases your skills.
 
-## 🌐 Connect With Me
+`Python` `Web Dev` `ML`
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">⭐️ <em>Feel free to explore my repositories and don't forget to star anything you find useful!</em></p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=a78bfa&style=flat-square&label=Profile+Views)
+
+*"The best way to predict the future is to build it."*
+
+</div>
