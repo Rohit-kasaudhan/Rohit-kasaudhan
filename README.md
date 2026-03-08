@@ -61,13 +61,13 @@ class Engineer:
 <tr>
 <td width="50%">
 
-** [Nepse-Stock Price Notifier](https://github.com/yourusername/project)**
+[NEPSE-Stock-Price-Notifier](https://github.com/Rohit-kasaudhan/NEPSE-Stock-Price-Notifier)
 > A real-time stock alert system for the Nepal Stock Exchange (NEPSE). Users can set custom price ranges for selected stocks and receive instant email notifications when prices cross those thresholds. Built with Python, it automates stock tracking and keeps investors informed without manual monitoring.
 
 </td>
 <td width="50%">
 
-**🌐 [Project Name](https://github.com/yourusername/project)**
+**🌐 [Project Name](https://github.com/Rohit-kasaudhan/NEPSE-Stock-Price-Notifier)**
 > Short punchy description of this web project and the problem it solves.
 
 `HTML` `CSS` `JavaScript`
