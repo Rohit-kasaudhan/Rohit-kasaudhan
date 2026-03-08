@@ -76,9 +76,8 @@ class Engineer:
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
+</table>
+</div>
 
 ### 🌐 Let's Connect
 
