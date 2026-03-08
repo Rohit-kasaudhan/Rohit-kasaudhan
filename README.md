@@ -61,10 +61,8 @@ class Engineer:
 <tr>
 <td width="50%">
 
-**🤖 [Project Name](https://github.com/yourusername/project)**
-> Short punchy description of what this AI/ML project does and why it's awesome.
-
-`Python` `TensorFlow` `AI/ML`
+** [Nepse-Stock Price Notifier](https://github.com/yourusername/project)**
+> A real-time stock alert system for the Nepal Stock Exchange (NEPSE). Users can set custom price ranges for selected stocks and receive instant email notifications when prices cross those thresholds. Built with Python, it automates stock tracking and keeps investors informed without manual monitoring.
 
 </td>
 <td width="50%">
