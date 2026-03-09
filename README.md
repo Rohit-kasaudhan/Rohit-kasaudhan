@@ -6,9 +6,6 @@
 
 <div align="center">
 
-```
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+AI+that+matters;Crafting+intelligent+systems;Turning+ideas+into+reality;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
