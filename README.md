@@ -56,8 +56,8 @@ class Engineer:
 </td>
 <td width="50%">
 
-**🌐 [Project Name](https://github.com/Rohit-kasaudhan/NEPSE-Stock-Price-Notifier)**
-> Short punchy description of this web project and the problem it solves.
+**🌐 [Attend-X Face Recognition Attendance System](https://github.com/Rohit-kasaudhan/Attend-X-Face-Recognition-Attendance-System-)**
+> A desktop-based automated attendance management system built with Python, OpenCV, and Tkinter. It uses LBPH (Local Binary Pattern Histogram) face recognition to identify students in real time.
 
 `HTML` `CSS` `JavaScript`
 
